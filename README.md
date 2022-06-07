@@ -5,4 +5,4 @@
 - 📌 Сделал кликабелной форму с выбором.
 - 📌 Добавил плавный скролл
 - 📌 Сделал адаптив
-- 🔗 https://evgkireev.github.io/HIMO-Dz5-/
+- 🔗 https://evgkireev.github.io/HIMO
